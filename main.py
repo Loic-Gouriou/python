@@ -10,6 +10,6 @@ n = "Bob"
 h = art("Hello")
 print(h)
 print(text2art("eheh"))
-
+print(text2art("BLOCK", font='block'))
 
 
